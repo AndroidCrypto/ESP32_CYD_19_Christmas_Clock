@@ -47,4 +47,5 @@ Please don't forget to copy the file "*Setup809_ESP32_CYD_1721S019_170x320.h*" i
 ````plaintext
 Arduino IDE Version 2.3.6 (Windows)
 arduino-esp32 boards Version 3.2.0 (https://github.com/espressif/arduino-esp32)
+Board: ESP32 Dev Module
 ````
